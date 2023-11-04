@@ -1,0 +1,3530 @@
+[
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    }
+]

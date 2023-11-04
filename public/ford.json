@@ -1,0 +1,650 @@
+[
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M3pe8jWcZDJwzVRvwxcxpAHaEK?pid=ImgDet&rs=1https://example.com/images/ford_mustang.jpg"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.K57FVR_4UbhUNzGMGJONFAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Puw27h1zluCnpTXRkK0TcQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.81a7ee061e42c3080d3e08e12459483d?rik=Z%2bxT%2ficFIKUZaQ&riu=http%3a%2f%2ffordauthority.com%2fwp-content%2fuploads%2f2019%2f06%2f2020-Ford-Explorer-ST-Exterior-Portland-Oregon-Drive-003-front-three-quarters.jpg&ehk=YLE%2byPWCOEFoQ797I4KDQoreOm%2fneYiMf4eR0qJWQ6A%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.L6DHGhbg5xOUYOALUvyn3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.006fbf1483147fa5c5818751455380d9?rik=2B%2fNpYaQXm1A2Q&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.31492f290527dc480447e3c8d00f9c3f?rik=h1DwObpqoBgwzA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/R.667f6c7e9725fdc605a5ee48a363e3eb?rik=WrU5ODoopkjY5A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Mustang GT",
+        "brandName": "Ford",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Ford Mustang GT is a powerful and stylish sports car known for its performance and iconic design.",
+        "photoURL": "https://th.bing.com/th/id/R.4a2a951aee1720b0d01d2be48ac4d0af?rik=G1W74zWNFR486g&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2015_hennessey_ford_mustang_gt-HD.jpg&ehk=WcR85PQ26JGEBMDphLck9gIZFXz5m%2bYGouo%2bD0bhCs4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford F-150",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Ford F-150 is a rugged and versatile pickup truck with a strong towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/OIP.N5ETFVYGe8sFwhpzSyZX7wAAAA?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Escape",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Ford Escape is a compact SUV designed for everyday practicality and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.E9ASnY1Vn6fMh18Ev-ZJxwHaEU?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Explorer",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Ford Explorer is a midsize SUV with ample space and advanced safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.f6b48c789603961440d0c81b90c99cf9?rik=s4RG%2fjNTtAT8Ew&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Focus",
+        "brandName": "Ford",
+        "Product_type": "Compact Car",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Ford Focus is an efficient and compact car designed for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.QbiUi8K7ciaL72MExh7oQAHaEE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Ford Ranger",
+        "brandName": "Ford",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Ford Ranger is a smaller pickup truck perfect for off-road adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.87e5a313abaaf8823b362cef6f95d2ff?rik=yMOIp1AfHBecpw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Fusion",
+        "brandName": "Ford",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 4.5,
+        "details": "The Ford Fusion is a comfortable and fuel-efficient sedan with a stylish design.",
+        "photoURL": "https://th.bing.com/th/id/R.2fd6fa921db25fbf8e9c900d0464aa96?rik=5kiKf8F85pSuXg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2013-ford-fusion_100376530_h.jpg&ehk=QCcHNAmbDa%2fjtjz70rOC0a3QLFTVj3BZhM4tndKM5jI%3d&risl=&pid=ImgRaw&r=0https://example.com/images/ford_fusion.jpg"
+    },
+    {
+        "name": "Ford Bronco",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 4.5,
+        "details": "The Ford Bronco is a rugged off-road SUV built for adventure and exploration.",
+        "photoURL": "https://th.bing.com/th/id/R.d6391bfc065049ebe5a379f2f2c9e6fb?rik=NOhMzPRHEPN%2bDQ&riu=http%3a%2f%2fexpertautoappraisals.com%2fwp-content%2fuploads%2f2014%2f10%2f1969-Ford-Bronco-24.jpg&ehk=kw7PUQxPg04kmOzL%2f%2b8TuTN2vBzOH8NSKG%2bdqFojXkw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Ford Edge",
+        "brandName": "Ford",
+        "Product_type": "SUV",
+        "price": 37000,
+        "rating": 2,
+        "details": "The Ford Edge is a midsize SUV with a comfortable interior and advanced tech features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PB2q0mX-qEnVDuGu34jb7gHaEK?pid=ImgDet&rs=1"
+    }
+]

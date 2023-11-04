@@ -1,0 +1,86 @@
+[
+    {
+        "car_img": "https://carfromjapan.com/wp-content/uploads/2018/09/i8.jpg",
+        "car_brand_name": "BMW",
+        "car_model_name": "i8",
+        "car_description": "With the rise of the intense problem of global warming, BMW came with this remarkable solution. The i8 model became the symbolic representation of a bleak looking sports car. If you think hybrids are boring, you need to try your hands on this particular BMW model. i8 is the clear proof that hybrids need not be boring.",
+        "car_rating": 4.5
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/OIP.ONVsnSAAZe7mXjKEHZvUPgHaFj?pid=ImgDet&rs=1",
+        "car_brand_name": "Ford",
+        "car_model_name": "Ford F-Series",
+        "car_description": "The Ford F-Series is a series of light-duty trucks marketed and manufactured by Ford since the 1948 model year. The F-Series is marketed as a range of full-sized pickup trucks positioned above the Ford Ranger in the Ford truck lineup. Alongside the F-150, the F-Series also includes the Super Duty series, which includes the heavier-duty F-250 through F-450 pickups, F-450/F-550 chassis cabs, and F-600/F-650/F-750 Class 6–8 commercial trucks.",
+        "car_rating": 4.2
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1",
+        "car_brand_name": "Mercedes",
+        "car_model_name": "Mercedes-Benz C-Class",
+        "car_description": "The Mercedes-Benz C-Class is a series of compact executive cars produced by Mercedes-Benz Group AG. Introduced in 1993 as a replacement for the 190 (W201) range, the C-Class was the smallest model in the marque's line-up until the W168 A-Class arrived in 1997. The C-Class has been available with a 'MATIC' four-wheel drive option since 2002. The third generation (W204) was launched in 2007 while the current W206 generation was launched in 2021.",
+        "car_rating": 4.7
+    },
+    {
+        "car_img": "https://carfromjapan.com/wp-content/uploads/2018/09/Z8-Roadster.jpg",
+        "car_brand_name": "BMW",
+        "car_model_name": "Z8 Roadster",
+        "car_description": "This model was the perfect example of modern engineering and unique design. The use of higher horsepower engine enhanced its performance along with complementing its looks. This car will not only look good while running on the roads but it will catch the attention even when just standing",
+        "car_rating": 4.0
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/R.1cdb4a5383ffca18b88287650bb265c5?rik=gGieqSnzBP085Q&riu=http%3a%2f%2f1.bp.blogspot.com%2f-qbKwcvhYdnk%2fUTgZ2SDdMZI%2fAAAAAAAAKVk%2fj4D36D1pQk0%2fs1600%2fFord%2bEscape%2b_8.jpg&ehk=nbdnvN5YETgC358WM8S8itT8MjCt46ZrHl3hhx85MG8%3d&risl=&pid=ImgRaw&r=0",
+        "car_brand_name": "Ford",
+        "car_model_name": "Ford Escape",
+        "car_description": "The Ford Escape is a compact crossover SUV sold by Ford since the 2001 model year. The first Ford SUV derived from a car platform, the Escape was slotted below the Ford Explorer in size; the Escape is currently sized between the Ford EcoSport and Ford Edge. In another first, the 2004 Ford Escape Hybrid was the first hybrid-electric vehicle from Ford, and the first hybrid produced as an SUV.",
+        "car_rating": 4.9
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/R.c7d7d8a654c78eca98d919d788e6c6ee?rik=AoCVqG%2b1yQyy2A&riu=http%3a%2f%2fperformancedrive.com.au%2fwp-content%2fuploads%2f2018%2f09%2f2019-Mercedes-Benz-E-Class-1280x823.jpg&ehk=jBEKOSezBD%2bNIDwDPZbPN0aT%2bsgS0XULsJlekqDOczY%3d&risl=&pid=ImgRaw&r=0",
+        "car_brand_name": "Mercedes",
+        "car_model_name": "Mercedes-Benz E-Class",
+        "car_description": "The Mercedes-Benz E-Class is a range of executive cars manufactured by German automaker Mercedes-Benz in various engine and body configurations. Produced since 1953, the E-Class falls midrange in the Mercedes line-up, and has been marketed worldwide across five generations.",
+        "car_rating": 4.3
+    },
+    {
+        "car_img": "https://carfromjapan.com/wp-content/uploads/2018/09/M5.jpg",
+        "car_brand_name": "BMW",
+        "car_model_name": "M5",
+        "car_description": "M5 is the sophisticated version of the BMW series that combines design and performance together. The excellent performance and the car’s eye-catchy looks attracted a number of users and the car became one of the most favorites of BMW lovers. The electronic settings in this car responded in a positive manner and hence made this BMW model as one must-have luxury cars.",
+        "car_rating": 4.8
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/R.a9a54af10e36cc228b48353112a752be?rik=0UBO6wMn7i%2fIvA&pid=ImgRaw&r=0",
+        "car_brand_name": "Ford",
+        "car_model_name": "Ford Fusion",
+        "car_description": "The Ford Fusion is a mid-size car that was manufactured and marketed by the Ford Motor Company. From the 2006 through 2020 model years, two generations of the Fusion have been produced in gasoline, gas/electric hybrid, and gas/plug-in electric hybrid variants. The Fusion was manufactured at Ford's Hermosillo Stamping and Assembly plant in Sonora, Mexico, alongside the Lincoln MKZ, and formerly the Mercury Milan, both of which share its CD3 platform.",
+        "car_rating": 4.1
+    },
+    {
+        "car_img": "https://s1.cdn.autoevolution.com/images/news/gallery/2016-mercedes-a-class-facelift-debuts-with-new-16-engine-and-launch-assist-photo-gallery_4.jpg",
+        "car_brand_name": "Mercedes",
+        "car_model_name": "Mercedes-Benz A-Class",
+        "car_description": "The Mercedes-Benz A-Class is a subcompact car produced by the German automobile manufacturer Mercedes-Benz as the brand's entry-level vehicle. The first generation (internally coded W168) was introduced in 1997, the second generation (W169) in late 2004 and the third generation (W176) in 2012. The fourth generation model (W177), which was launched in 2018, marked the first time the A-Class was offered in the United States and Canada.[1] This fourth generation A-Class is also the first to be offered both as a hatchback (W177) and sedan (V177).[2]",
+        "car_rating": 4.6
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0",
+        "car_brand_name": "Honda",
+        "car_model_name": "Honda Civic",
+        "car_description": "The Honda Civic is a series of automobiles manufactured by Honda since 1972. As of 2023, the Civic is positioned between the Honda Fit/City and Honda Accord in Honda's global car line-up. The first-generation Civic was introduced in July 1972 as a two-door fastback sedan, followed by a three-door hatchback that September. With a 1,169 cc transverse engine and front-wheel drive like the British Mini, the car provided good interior space despite overall small dimensions. Initially gaining a reputation for being fuel-efficient, reliable and environmentally friendly, later iterations have become known for performance and sportiness, especially the Civic Type R, Civic VTi, Civic GTi and Civic SiR/Si.",
+        "car_rating": 4.4
+    },
+    {
+        "car_img": "https://media.ed.edmunds-media.com/mercedes-benz/gle-class/2024/oem/2024_mercedes-benz_gle-class_4dr-suv_amg-gle-63-s_fq_oem_3_1280x855.jpg",
+        "car_brand_name": "Mercedes",
+        "car_model_name": "Mercedes-Benz GLE",
+        "car_description": "The Mercedes-Benz GLE, formerly Mercedes-Benz M-Class (designated with the 'ML' nomenclature), is a mid-size luxury SUV produced by the German manufacturer Mercedes-Benz since 1997. In terms of size, it is slotted in between the smaller GLC and the larger GLS, the latter with which it shares platforms The first-generation M-Class, designated with the model code W163, is a body-on-frame SUV and was produced until 2004. For a short time, between 1999 and 2002, the W163 M-Class was also built by Magna Steyr in Graz, Austria, for the European market, before all production moved to the U.S. plant near Vance, Alabama. The second-generation M-Class (W164) moved to a unibody platform while sharing most components with the GL-Class, which sports a longer body to accommodate third-row seating.",
+        "car_rating": 4.7
+    },
+    {
+        "car_img": "https://th.bing.com/th/id/R.a667b2155d68af252caea7e8f57ab60d?rik=rU3NzgCjMFUFaQ&riu=http%3a%2f%2fwww.sembang-auto.com%2fwp-content%2fuploads%2f2012%2f08%2f2013_honda_accord_sedan_touring_f34.jpg&ehk=PRkZKxfN%2bNvkqmM51DBl6hDKKYJSvffKEsCAkay%2bM0s%3d&risl=&pid=ImgRaw&r=0",
+        "car_brand_name": "Honda",
+        "car_model_name": "Honda Accord",
+        "car_description": "The Honda Accord, also known as the Honda Inspire in Japan and China for certain generations, is a series of automobiles manufactured by Honda since 1976, best known for its four-door sedan variant, which has been one of the best-selling cars in the United States since 1989. The Accord nameplate has been applied to a variety of vehicles worldwide, including coupes, station wagons, hatchbacks and a Honda Crosstour crossover",
+        "car_rating": 4.2
+    }
+]

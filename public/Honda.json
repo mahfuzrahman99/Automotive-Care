@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kQ5oqdmMd5WBs5VXFZl8wAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.407caae95d990b84213b97fe91426255?rik=B8ygrstACyKqpA&riu=http%3a%2f%2fs1.paultan.org%2fimage%2f2014%2f11%2fHonda-CRV-Facelift-Thailand-0010.jpg&ehk=neJ3UlY4qHJIjTXv5slLgYkpTIhzb39dtjGWh8Nq3Po%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ojCK4aC3vBRlXDsdS9OI3QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.601e429489dd9afb49c141ee11cdf4a5?rik=IYSpDOgFTUVvpA&riu=http%3a%2f%2fwww.theautochannel.com%2fnews%2f2008%2f12%2f31%2f335318.2-lg.jpg&ehk=ruj%2fS2qpE8JrGmTqApXlrV%2flDKXT3S2UdvtDgq5UX%2f4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://www.motortrend.com/uploads/sites/10/2015/11/2014-honda-pilot-exl-suv-angular-front.png"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.76c6c0ffe40dab88388b4b9dababc88c?rik=%2b5upenKchZHHMQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.0a4db8b7ed00e11de17a96896212136a?rik=IGDDReeKNtHHGg&riu=http%3a%2f%2fwww.thesupercars.org%2fwp-content%2fuploads%2f2009%2f07%2fHonda-Odyssey.jpg&ehk=EavPH1V3yRvgrCWSCl1JalRyDwtLe50Sjnlqm9PAIaQ%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/R.31f7605357be7f2ab606b0ab87005022?rik=l6sDPiYpAhPOcw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.e5e73c46ee2881df972ad77d38275dc1?rik=iQR267umfdvStg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Civic",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 23000,
+        "rating": 4.5,
+        "details": "The Honda Civic is a popular compact sedan known for its reliability and fuel efficiency.",
+        "photoURL": "https://th.bing.com/th/id/R.72b8ddd06521f08604171656ade28cc6?rik=SLPOM%2bQCLxYRLw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ab7olhAGJX4%2fUllg6NihQDI%2fAAAAAAAA7GM%2fS_mECXgbJEs%2fs00%2fHonda-Civic-Tuning-Car-1920x1080.jpg&ehk=b9149KM7WmHgGD8aSCtoBo86VQJaTkqg5QMfEsVF%2b3I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda CR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 28000,
+        "rating": 4,
+        "details": "The Honda CR-V is a versatile SUV with a spacious interior and excellent safety features.",
+        "photoURL": "https://th.bing.com/th/id/R.0c2cea960f0bcd2358551f0227e4e590?rik=r0dWrl9HCuLZoA&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fHONDA-HONDA-CR-V-4493_49.jpg&ehk=WewJrNYxqrpW8%2bZQCstGRVfZeLEox3nluvoGBVtuDIU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Accord",
+        "brandName": "Honda",
+        "Product_type": "Sedan",
+        "price": 25000,
+        "rating": 3,
+        "details": "The Honda Accord is a midsize sedan with a comfortable ride and advanced technology.",
+        "photoURL": "https://st.motortrend.com/uploads/sites/10/2016/08/2017-Honda-Accord-Touring-front-three-quarter-in-motion-07.jpg"
+    },
+    {
+        "name": "Honda Fit",
+        "brandName": "Honda",
+        "Product_type": "Hatchback",
+        "price": 18000,
+        "rating": 3.5,
+        "details": "The Honda Fit is a versatile subcompact hatchback known for its practicality and space.",
+        "photoURL": "https://th.bing.com/th/id/R.18e22ebd65cedd7d978affb943426eb0?rik=FUQE%2bJYRQcy4lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Pilot",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 32000,
+        "rating": 5,
+        "details": "The Honda Pilot is a family-friendly SUV with three-row seating and ample cargo space.",
+        "photoURL": "https://th.bing.com/th/id/R.f69e500f7df0662c2c44cb6ddbe3c3d6?rik=w8%2fqStNwb7pPxg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda HR-V",
+        "brandName": "Honda",
+        "Product_type": "SUV",
+        "price": 21000,
+        "rating": 2,
+        "details": "The Honda HR-V is a subcompact SUV offering versatility and an efficient engine.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0Fxjp1FZiywfm-2OfiGucAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Ridgeline",
+        "brandName": "Honda",
+        "Product_type": "Truck",
+        "price": 33000,
+        "rating": 4.5,
+        "details": "The Honda Ridgeline is a unique midsize pickup truck with a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.TxDTA6ogxu9YleT80U5VVgHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Odyssey",
+        "brandName": "Honda",
+        "Product_type": "Minivan",
+        "price": 33000,
+        "rating": 5,
+        "details": "The Honda Odyssey is a minivan designed for families with spacious seating and features.",
+        "photoURL": "https://th.bing.com/th/id/R.18e4e83d9869161931e841e700959316?rik=ztzLxjyBZEvGAQ&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Honda Insight",
+        "brandName": "Honda",
+        "Product_type": "Hybrid",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Honda Insight is a hybrid sedan offering fuel efficiency and a comfortable interior.",
+        "photoURL": "https://th.bing.com/th/id/OIP.MfdgU1e-fyq2BrCrhwBQIgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Honda Clarity",
+        "brandName": "Honda",
+        "Product_type": "Plug-in Hybrid",
+        "price": 28000,
+        "rating": 2,
+        "details": "The Honda Clarity is a plug-in hybrid car with an emphasis on eco-friendliness and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.S57UEgbMV-W94bwzLjyI2QHaEK?pid=ImgDet&rs=1"
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/R.b7f534eaa07da96b4e08f46cef349689?rik=7iUqO0fRuc2Byw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://www.bing.com/images/search?view=detailV2&ccid=qO6mOey7&id=B7AC12E4B42C244582B3D016E8CBF3BB3B2AC67E&thid=OIP.qO6mOey7-G6-h3ACkx3s5QHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a8eea639ecbbf86ebe877002931dece5%3frik%3dfsYqO7vzy%252bgW0A%26riu%3dhttp%253a%252f%252fwww.hdcarwallpapers.com%252fwalls%252f2015_bmw_x5_m-wide.jpg%26ehk%3dgjmSxO00woacwrzIWcBxdtPR59cXVRa2ThgW2QoJlBY%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=BMW+X5&simid=608006304122555275&FORM=IRPRST&ck=3C28592E547547193156EE7F975B6D1C&selectedIndex=0"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.d51993ad17845645894e6082a25fcb53?rik=b9g3G2ARQkSukw&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/OIP.7BC11rhKbO8tjNOwtlo3CgHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mrgYV3Gtux8nBTfG1HXXhwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/R.ef61bc87554417bdff238d952aa54c09?rik=beKpgybWPHp8Pg&riu=http%3a%2f%2fs3.caradvice.com.au%2fwp-content%2fuploads%2f2015%2f07%2fBMW-X1-xDrive25i-013.jpg&ehk=dHM8%2bLt8Aiczj3b4u3Xi%2f5az0I7M7jLEAjKb8VJGRn4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.HCESMj1U3u1ThPxlghHsqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ex_kP7mHlAhNtDMobe8WXQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/R.eb0beb233a009031c79e3954284fbdfc?rik=ktF30jVxanO17g&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2018_BMW_i3_facelift_(1).jpg/1200px-2018_BMW_i3_facelift_(1).jpg"
+    },
+    {
+        "name": "BMW 3 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 50000,
+        "rating": 4.5,
+        "details": "The BMW 3 Series is a luxury sedan known for its performance and elegant design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.SVMsFG748NqYeY1RljL6LgHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X5",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The BMW X5 is a premium SUV with a spacious interior and advanced technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.-UcHpHPmvc1D8on-r3OFTwHaD8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 7 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The BMW 7 Series is a high-end luxury sedan offering opulence and advanced features.",
+        "photoURL": "https://th.bing.com/th/id/R.247d1a4856347c55b8f699a492a51ec4?rik=S7%2bQ8uvxfiE9lg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X3",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The BMW X3 is a compact luxury SUV with a blend of performance and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.02e5cfb7552d9b6e6cd89d3e000cc044?rik=V9pDPMULEsAxKg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW 5 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The BMW 5 Series is an executive sedan renowned for its sophistication and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.6695e08f28d8e3288d674247282353bc?rik=oxTcpF8INii10A&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "BMW X1",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The BMW X1 is a subcompact luxury SUV designed for urban adventures.",
+        "photoURL": "https://th.bing.com/th/id/OIP.v7SaN21OGnsybOEnx8gKRQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 4 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Coupe",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW 4 Series is a stylish and sporty coupe offering a thrilling driving experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.kGwcGGWdQWdwmwTFI5s_IAHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW X7",
+        "brandName": "B.M.W",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4.5,
+        "details": "The BMW X7 is a full-size luxury SUV with exceptional space and premium features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.mVSya8mNuBYmtsulExJKMAHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW 2 Series",
+        "brandName": "B.M.W",
+        "Product_type": "Convertible",
+        "price": 60000,
+        "rating": 3.5,
+        "details": "The BMW 2 Series is a compact convertible designed for open-top driving pleasure.",
+        "photoURL": "https://th.bing.com/th/id/OIP.zJqUPZ2d8zXdgih565QXAgHaEh?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "BMW i3",
+        "brandName": "B.M.W",
+        "Product_type": "Electric Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The BMW i3 is an electric car with a unique design and eco-friendly features.",
+        "photoURL": "https://th.bing.com/th/id/OIP.8pnTjjH_g-OUHkUKkB1XywHaE8?pid=ImgDet&rs=1"
+    }
+]

@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.18c077789a05556ed628911b56d61e3f?rik=SPKXIUjVxx7ekA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://icdn-7.motor1.com/images/mgl/OqZmY/s1/2017-chevy-silverado-1500-review.jpg"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.9X1XRjR2kjxGIcp8vi1j4QHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://th.bing.com/th/id/R.fa03a97090798c192520300275d30b7d?rik=KlaNVwNPeZFktg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://cimg0.ibsrv.net/ibimg/hgm/1600x900-1/100/373/2013-chevrolet-malibu_100373472.jpg"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.49d36059d59aa88f49af092d11063f8f?rik=qpX0ckqhbV130w&riu=http%3a%2f%2fcdcssl.ibsrv.net%2fautodata%2fimages%2f%3fIMG%3dUSC70CHT352D021001.JPG&ehk=kykhFsd%2baUfqcBlK3tqQXsHqCtJwNO5emlraV%2bMP6HU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.gVLw2iG1Tr0G1mHjdbWoQAHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.d6b530b9acec07ff1667a77923b835f1?rik=BSz9OyW5JSl3qw&riu=http%3a%2f%2fgmauthority.com%2fblog%2fwp-content%2fuploads%2f2018%2f11%2f2019-Chevrolet-Traverse-Exterior-002.jpg&ehk=f7Oh8ymEMpyLrTFQE74RBwfnNI%2bIvWHoDmAj1IbPwYM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://hips.hearstapps.com/amv-prod-cad-assets.s3.amazonaws.com/images/16q1/665058/2017-chevrolet-sonic-photos-and-info-news-car-and-driver-photo-667012-s-original.jpg"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/OIP.ZIXduJcVGxvWCIWbLr5fSAHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Camaro SS",
+        "brandName": "Chevrolet",
+        "Product_type": "Sports Car",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Chevrolet Camaro SS is a high-performance sports car with a sleek design.",
+        "photoURL": "https://th.bing.com/th/id/R.aa302c76a5c49f7c9dbc7ed1f18c7c92?rik=Me4iFxiu9%2fmJfg&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Silverado 1500",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 45000,
+        "rating": 4,
+        "details": "The Chevrolet Silverado 1500 is a robust and capable pickup truck.",
+        "photoURL": "https://th.bing.com/th/id/OIP.JS-V6WZYXq5mu55GwtE5lQHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Equinox",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 35000,
+        "rating": 3,
+        "details": "The Chevrolet Equinox is a compact SUV with a focus on comfort and efficiency.",
+        "photoURL": "https://th.bing.com/th/id/OIP.pe-PzOIEba1vm4GMfF_TLgHaEL?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Tahoe",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 40000,
+        "rating": 3.5,
+        "details": "The Chevrolet Tahoe is a large SUV known for its spacious interior and towing capacity.",
+        "photoURL": "https://di-uploads-pod4.dealerinspire.com/sunrisechevy/uploads/2019/09/tahoe-exterior-red.jpg"
+    },
+    {
+        "name": "Chevrolet Malibu",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 28000,
+        "rating": 5,
+        "details": "The Chevrolet Malibu is a comfortable and stylish sedan for daily commuting.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6RUagI1tlWHKjwl1s-WM5QEyDM?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Colorado",
+        "brandName": "Chevrolet",
+        "Product_type": "Truck",
+        "price": 32000,
+        "rating": 2,
+        "details": "The Chevrolet Colorado is a midsize pickup truck suitable for various tasks.",
+        "photoURL": "https://th.bing.com/th/id/R.92f7e3dd96212dfa357d2140c0d3b9f4?rik=GwxnRb54vukDaA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Impala",
+        "brandName": "Chevrolet",
+        "Product_type": "Sedan",
+        "price": 30000,
+        "rating": 3.5,
+        "details": "The Chevrolet Impala is a classic full-size sedan with a comfortable ride.",
+        "photoURL": "https://th.bing.com/th/id/OIP.0nJNyu605VgsyKb_7N59nQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Traverse",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 46000,
+        "rating": 5,
+        "details": "The Chevrolet Traverse is a family-friendly SUV with ample space and modern features.",
+        "photoURL": "https://th.bing.com/th/id/R.1f2c7dc3300310b1b1d89e749fc3ba54?rik=wsD9CuXnNkuW%2fw&riu=http%3a%2f%2fs1.cdn.autoevolution.com%2fimages%2fgallery%2fCHEVROLET-Traverse-3944_34.jpg&ehk=xZGRWzcCr%2fq9nANoOGsnYBqkBbnIrNLXYa%2fi4r%2bASnA%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Chevrolet Sonic",
+        "brandName": "Chevrolet",
+        "Product_type": "Compact Car",
+        "price": 25000,
+        "rating": 4,
+        "details": "The Chevrolet Sonic is a small and efficient car suitable for city driving.",
+        "photoURL": "https://th.bing.com/th/id/OIP.5XoQgPpV4eiq4zCMtp8U5QHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Chevrolet Suburban",
+        "brandName": "Chevrolet",
+        "Product_type": "SUV",
+        "price": 52000,
+        "rating": 4.5,
+        "details": "The Chevrolet Suburban is a large SUV offering space and versatility for families.",
+        "photoURL": "https://th.bing.com/th/id/R.9c9a479ac12ee7c2587853b03933834f?rik=MveDVQIuLQf0vA&riu=http%3a%2f%2fcdn.carbuzz.com%2fcar-thumbnails%2foriginal%2f9000%2f600%2f9602.jpg&ehk=yv2cXgrZUHjj3Yi0BNUJ9pOpFpgJXP5gBcM1Odybk6U%3d&risl=&pid=ImgRaw&r=0"
+    }
+]

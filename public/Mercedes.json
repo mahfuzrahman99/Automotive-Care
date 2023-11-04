@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.b6Zh3YkFpgPJs_551kLpTwHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://th.bing.com/th/id/R.0cb43f7b8ab3629894071bd0881120ef?rik=EAe4ALzw3GmTqA&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/OIP.vdnGB1KHTbnugSPm0eI6jgHaEa?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/R.0266bf5ae3fdc9d1571f622a8cda461d?rik=yMqWZLkZCNrLSg&riu=http%3a%2f%2fwww.hdcarwallpapers.com%2fwalls%2f2017_mercedes_benz_e_class-wide.jpg&ehk=SSl9HWv5BbHyLLdMz0SKK%2fB%2fJz6xh1drlS8oSnHcq6g%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://www.bing.com/images/blob?bcid=RACs.pn3d0MGqxcxoNWLuD9SqbotqVTdP3s"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/R.814b272ab6454e39a7ab9af2e194a642?rik=yrOCibx5zv%2b2%2bg&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2013%2fMercedes-CLA-45-AMG-26.jpg&ehk=%2be3PjGwRjMt5nDpVp0%2bbanT2H%2fxrP5ZWDxjbC8yAOkk%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://th.bing.com/th/id/OIP.F2v4JWv3vg08bxwU8dDprwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.M440cWUapaqlkI7-hFA75wHaFE?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.PDwjyDGbNRrOPm7oePwqogHaEp?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz C-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz C-Class is a luxury sedan known for its style and performance.",
+        "photoURL": "https://th.bing.com/th/id/OIP.aIFKzYJ0lzgszG7LW3_UqQHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLE",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 65000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLE is a premium SUV with advanced technology and comfort.",
+        "photoURL": "https://www.suvdrive.com/sites/default/files/public/Side%20view/side%20view%20Mercedes-Benz%20GLE-Class%20Coupe%20AMG%2063%20S%204MATIC%202017_1.jpg"
+    },
+    {
+        "name": "Mercedes-Benz S-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Luxury Sedan",
+        "price": 80000,
+        "rating": 3,
+        "details": "The Mercedes-Benz S-Class is the pinnacle of luxury and innovation in the sedan segment.",
+        "photoURL": "https://th.bing.com/th/id/OIP.yEkb18xhPILMGc2Yxll39gHaE8?pid=ImgDet&rs=1https://example.com/images/mercedes_s_class.jpg"
+    },
+    {
+        "name": "Mercedes-Benz GLC",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 55000,
+        "rating": 3.5,
+        "details": "The Mercedes-Benz GLC is a compact luxury SUV combining style and practicality.",
+        "photoURL": "https://th.bing.com/th/id/R.9d2f7437158e8de541d5f6f0343c05e2?rik=f7U9queElERSkw&riu=http%3a%2f%2fwww.car-revs-daily.com%2fwp-content%2fuploads%2f2015%2f04%2f2015-Mercedes-Benz-GLC-Coupe-Concept-8-copy.jpg&ehk=WczQKhwTlZZfhTkYlYZBZIBuLUOQMQQKFoiiBrExFlw%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz E-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 70000,
+        "rating": 5,
+        "details": "The Mercedes-Benz E-Class is a midsize luxury sedan known for its elegance and technology.",
+        "photoURL": "https://th.bing.com/th/id/OIP.GgbDOO9NwElxIE84UiK_6gHaE7?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLA",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 45000,
+        "rating": 2,
+        "details": "The Mercedes-Benz GLA is a subcompact luxury SUV built for urban driving.",
+        "photoURL": "https://th.bing.com/th/id/R.3e7faaa2ef7ba2e4ee0d44a19c0ab220?rik=Wc87xlPV5ACdTA&riu=http%3a%2f%2fwww.ausmotive.com%2fpics%2f2014%2fMercedes-GLA45-AMG-06.jpg&ehk=UJMh7W%2bapgJriir39RLWkkI6GbelfD1I2QIGS40LVkM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Mercedes-Benz CLA",
+        "brandName": "Mercedes",
+        "Product_type": "Sedan",
+        "price": 55000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz CLA is a compact luxury sedan offering a sporty and stylish experience.",
+        "photoURL": "https://th.bing.com/th/id/OIP.CoybcBxzy5zj8meO2el2IwHaFj?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz GLS",
+        "brandName": "Mercedes",
+        "Product_type": "SUV",
+        "price": 85000,
+        "rating": 4,
+        "details": "The Mercedes-Benz GLS is a full-size luxury SUV with opulent features and space.",
+        "photoURL": "https://www.cars-data.com/pictures/mercedes/mercedes-benz-gls-class_3897_14.jpg"
+    },
+    {
+        "name": "Mercedes-Benz A-Class",
+        "brandName": "Mercedes",
+        "Product_type": "Hatchback",
+        "price": 60000,
+        "rating": 3,
+        "details": "The Mercedes-Benz A-Class is a compact hatchback with modern features and design.",
+        "photoURL": "https://th.bing.com/th/id/OIP.Tm47niU8rmWEcc8b0FnDCQHaE6?pid=ImgDet&rs=1"
+    },
+    {
+        "name": "Mercedes-Benz EQC",
+        "brandName": "Mercedes",
+        "Product_type": "Electric SUV",
+        "price": 70000,
+        "rating": 4.5,
+        "details": "The Mercedes-Benz EQC is an electric SUV with a focus on sustainability and luxury.",
+        "photoURL": "https://th.bing.com/th/id/OIP.6kmdjBc0ng3bjxYnmSl41wHaFp?pid=ImgDet&rs=1"
+    }
+]
